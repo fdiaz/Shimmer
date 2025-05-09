@@ -15,3 +15,5 @@
 build/
 
 Pods
+.swiftpm
+.build
